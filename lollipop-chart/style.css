@@ -1,0 +1,7 @@
+/* CSS */
+
+circle.circleValue.selected {
+    /* stroke-width: 2px; */
+    /* stroke: #66ff85; */
+    fill: #009845 !important;
+}
