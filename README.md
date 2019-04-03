@@ -12,6 +12,9 @@ the bubble size & color, Text size can be changes as per requirment.
 #### Note :
  More styling option is available in appearance tab
 <hr>
+
+<img src="./l6.PNG" alt="1st Version" style="width: 50%;">
+<img src="./l7.PNG" alt="1st Version" style="width: 50%;">
 <img src="./l1.PNG" alt="1st Version" style="width: 100%;">
 <img src="./l2.PNG" alt="1st Version" style="width: 100%;">
 <img src="./l3.PNG" alt="1st Version" style="width: 100%;">
